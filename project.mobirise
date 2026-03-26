@@ -735,11 +735,11 @@
                 "background": "darken(#e60023, 10)"
               }
             },
-            ".bg-instagram when (@instagram)": {
-              "background": "#f00075",
-              "color": "contrast(#f00075)",
+            ".bg-medium when (@medium)": {
+              "background": "#1a8917",
+              "color": "contrast(#1a8917)",
               "&:hover": {
-                "background": "darken(#f00075, 10)"
+                "background": "darken(#1a8917, 10)"
               }
             },
             ".bg-github when (@github)": {
