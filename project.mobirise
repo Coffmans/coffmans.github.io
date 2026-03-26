@@ -785,10 +785,10 @@
               }
             },
             ".bg-mastodon when (@medium)": {
-              "background": "#6364ff",
-              "color": "contrast(#6364ff)",
+              "background": "#1a8917",
+              "color": "contrast(#1a8917)",
               "&:hover": {
-                "background": "darken(#6364ff, 10)"
+                "background": "darken(#1a8917, 10)"
               }
             },
             ".iconfont-wrapper": {
