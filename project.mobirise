@@ -742,11 +742,11 @@
                 "background": "darken(#f00075, 10)"
               }
             },
-            ".bg-slack when (@slack)": {
-              "background": "#4a154b",
-              "color": "contrast(#4a154b)",
+            ".bg-github when (@github)": {
+              "background": "#24292e",
+              "color": "contrast(#24292e)",
               "&:hover": {
-                "background": "darken(#4a154b, 10)"
+                "background": "darken(#24292e, 10)"
               }
             },
             ".bg-linkedin when (@linkedin)": {
@@ -784,11 +784,11 @@
                 "background": "darken(#ff0000, 10)"
               }
             },
-            ".bg-twitch when (@twitch)": {
-              "background": "#9146ff",
-              "color": "contrast(#9146ff)",
+            ".bg-mastodon when (@mastodon)": {
+              "background": "#6364ff",
+              "color": "contrast(#6364ff)",
               "&:hover": {
-                "background": "darken(#9146ff, 10)"
+                "background": "darken(#6364ff, 10)"
               }
             },
             ".iconfont-wrapper": {
