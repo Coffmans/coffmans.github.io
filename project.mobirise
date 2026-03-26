@@ -784,7 +784,7 @@
                 "background": "darken(#ff0000, 10)"
               }
             },
-            ".bg-mastodon when (@mastodon)": {
+            ".bg-mastodon when (@medium)": {
               "background": "#6364ff",
               "color": "contrast(#6364ff)",
               "&:hover": {
